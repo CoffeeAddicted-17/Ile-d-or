@@ -1,4 +1,4 @@
-# Ile-d-or
+# Le Trésor de l'Ile d'Or
 À l’ombre du majestueux château d’Amboise, là où vécurent rois, artistes et alchimistes, une énigme ancienne attend d’être résolue. Depuis des siècles, une rumeur persiste : un trésor inestimable serait dissimulé sur une île mystérieuse surnommée l’île d’Or, cachée quelque part entre les bras secrets de la Loire. Des cartes incomplètes, des gravures oubliées, des lettres codées retrouvées dans les murs du château… Autant d’indices épars, laissés par ceux qui ont tenté la quête avant vous – et qui ne sont jamais revenus.
 
 Aujourd’hui, c’est à vous de reprendre le flambeau.
